@@ -1,0 +1,19 @@
+.first-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    left: 250px;
+  }
+  
+  .second-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+  }
+  
+  .third-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+  }
